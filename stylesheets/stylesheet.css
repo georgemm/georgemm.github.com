@@ -27,7 +27,6 @@ time, mark, audio, video {
   border: 0;
   font: inherit;
   vertical-align: baseline;
-  color:white;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -77,6 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 36px;
   font-weight: 700;
+  color:white;
 }
 
 h2 {
@@ -163,16 +163,11 @@ pre, code {
   width: 100%;
   color: #222;
   background-color: #fff;
-
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 14px;
-
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
-
-
-
 }
 
 pre {
@@ -180,6 +175,8 @@ pre {
   padding: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,.1);
   overflow: auto;
+  background-image:url('images/preBack.gif');
+  background-size:cover;
 }
 
 code {
@@ -239,6 +236,7 @@ table {
   border: 1px solid #373737;
   margin-bottom: 20px;
   text-align: left;
+  color:black;
  }
 
 th {
