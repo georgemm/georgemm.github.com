@@ -1,6 +1,7 @@
 $(".box1").hide();
 $(".box2").hide();
 $(".box3").hide();
+
 $(".bbox1").click(function(){
     $(".box1").fadeToggle('slow');
     return false;
