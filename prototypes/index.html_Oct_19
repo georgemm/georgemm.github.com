@@ -1,0 +1,206 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Georgemm.github.com : T" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <title>Georgemm.github.com</title>
+<style>
+html{background-image:url('images/preBack.gif');background-size:cover;}
+body
+{
+  padding:20px;
+  border: 1px solid brown;
+  box-shadow:1px 1px 20px black;
+}
+h1
+{
+  padding:5px;
+  font-size: 36px;
+  font-weight: 700;
+}
+table, ul
+{
+background-image:url('images/blueBk.jpg');
+background-size:cover;
+border: 1px outset maroon;
+box-shadow:1px 1px 20px black;
+margin:5px;
+}
+li
+{
+  font-size:19px;
+  font-weight: 300;
+}
+h2
+{
+color:red;
+text-shadow:1px 1px 1px black;
+}
+#hideMe
+{
+  border: 3px solid black;
+  border-radius:15px;
+  padding:3px;
+  font-size: 18px;
+  font-weight: 300;
+  background-color:#fff;
+  box-shadow:1px 1px 20px black;
+  background-image:url('images/gg.jpg');
+  background-size:cover;
+}
+#mp
+{
+box-shadow:1px 1px 20px black;
+}
+</style>
+</head>
+
+<body>
+<center>
+<img id='logo'src="images/tpcTrans.gif" alt="mainPic" width="600" height="160"/><hr/>
+<img id= 'mp'src="images/mainPic.jpg" alt="mainPic" width="700" height="400"/>
+<h2>Rooms Available Now<br/>Phone:(406)266-3711 Cell:(406)439-5067<br/>email:MARCUZZI@MT.NET</h2>
+</center>
+
+ <table>
+   <ul>
+     <h3>What We Offer</h3>
+
+     <li>24 Hour Assisted Care</li>
+     
+     <li><b class="bbox2"><a href=''>Catagory A and B</a></b></li>
+<div id="hideMe" class="box2">
+ 
+<p><strong>Category A: (All of the Assisted Living in Montana have this Category Endorsement)</strong><br/>
+<br/>
+(a) The resident may NOT require physical or chemical restraint or <br/>
+ confinement in locked quarters, but may consent to the use of safety <br/>
+ devices. <br/>
+<br/>
+(b) The resident may not have a stage 3 or stage 4 pressure ulcer. <br/>
+<br/>
+(c) The resident may not have a gastrostomy or jejunostomy tube. <br/>
+<br/>
+(d) The resident may not require skilled nursing care or other skilled <br/>
+    services on a continued basis except for the administration of <br/>
+    medications consistent with applicable laws and regulations. <br/>
+<br/>
+(e) The resident may not be a danger to self or others. <br/>
+<br/>
+(f) The resident must be able to accomplish activities of daily living with supervision and assistance based on the following:<br/>
+<br/>
+(i) the resident may not be consistently and totally dependent in four <br/>
+    or more activities of daily living as a result of <br/>
+    a cognitive or physical impairment; and <br/>
+<br/>
+(ii) the resident may not have a severe cognitive impairment that <br/>
+     renders the resident incapable of expressing needs <br/>
+     or making basic care decisions. <br/>
+<br/>
+<br/>
+<strong>Category B: (All, but approximately 50 Assisted Living facilities in Montana have a Category B endoresement)</strong><br/>
+<br/>
+An assisted living facility licensed as a category B facility may not admit or retain a category B resident unless <br/>
+ each of the following condition is met:<br/>
+<br/>
+(a) The resident may require skilled nursing care or other services <br/>
+    for more than 30 days for an incident,<br/>
+    for more than 120 days a year that may be provided or arranged for <br/>
+    by either the facility <br/>
+    or the resident, and as provided for in the facility agreement. <br/>
+<br/>
+(b) The resident may be consistently and totally dependent in more than four activities of daily living. <br/>
+<br/>
+(c) The resident may not require physical or chemical restraint or confinement in locked quarters. <br/>
+<br/>
+(d) The resident may not be a danger to self or others. <br/>
+<br/>
+(e) The resident must have a practitioner's written order for admission as a category B resident and written orders for care. <br/>
+<br/>
+(f) The resident must have a signed health care assessment, renewed on a quarterly basis by a licensed health care professional who:<br/>
+<br/>
+(i) actually visited the facility within the calendar quarter covered by the assessment;<br/>
+<br/>
+(ii) has certified that the particular needs of the resident can be adequately met in the facility; and <br/>
+<br/>
+(iii) has certified that there has been no significant change in health care status that would require another level of care. <br/>
+</p></strong>
+</div>
+     <li>Customizable Private and Shared Rooms</li>
+     <li>Beautiful View of the Surrounding Mountains and Canyon Ferry Lake</li>
+     <li>Various Activities / Area groups and organizations come for visits</li>
+     <li>All Religious Services Are Welcome</li>
+     <li>We Welcome Pets too / Large Fenced Yard</li>
+     <li>Nutritious Home Cooked Meals</li><hr/>
+     <h3>We Also Accept</h3>
+     <li><a
+     href="http://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Waivers/Waivers.html">Medicade Waiver</a></li><hr/>
+     <h3>Working together with</h3><br/>
+      <li><b class="bbox1"><a href=''>Community Home Oxygen</a></b></li>
+     <div  id="hideMe" class="box1">
+     <pre> <b>Community Home Oxygen Inc</b>
+
+     (406) 443-3716
+
+     3103 Prospect Ave, Helena, MT 59601 </pre>
+     </div>
+     <li><a href='http://www.rockymountainhospice.com/'>Rocky Mountain Hospice</a></li>
+     <li><a href='http://www.frontierhhh.com/'>Frontier Home Health</a></li><hr/>
+     <h3>Additional Information</h3>
+     <li><b class="bbox3"><a href=''>Resident Bill Of Rights</a></b></li>
+     <div  id="hideMe" class="box3">
+     <b>Resident Bill Of Rights</b><br/>
+       50-5-1104. <br/>
+
+Rights of long-term care facility residents. <br/>
+
+(1) The state adopts by reference for all long-term care facilities the rights for long-term care <br/> facility residents applied by the federal government to facilities that provide skilled nursing care or intermediate nursing care and participate in a medicaid or medicare program <br/> 
+<br/>
+(42 U.S.C. 1395i-3(a) and 1396r(a), as implemented by regulation). <br/>
+<br/>
+(2) In addition to the rights adopted under subsection (1), the state adopts for all residents of long-term care facilities the following rights:<br/>
+<br/>
+(a) A resident or the resident's authorized representative must be informed by the facility at least 30 days <br/> in advance of any changes in the cost or availability of services, unless to do so is beyond the facility's control. <br/>
+ <br/>
+(b) Regardless of the source of payment, each resident or the resident's authorized representative is entitled, upon request,<br/> to receive and examine an explanation of the resident's monthly bill. <br/>
+<br/>
+(c) Residents have the right to organize, maintain, and participate in resident advisory councils. <br/> The facility shall afford reasonable privacy and facility space for the meetings of the councils. <br/>
+ <br/>
+(d) A resident has the right to present a grievance on the resident's own behalf or that of others to the facility or the resident advisory council. <br/> The facility shall establish written procedures for receiving, handling, and informing residents or the resident advisory council of the outcome of any grievance presented. <br/>
+<br/>
+(e) A resident has the right to ask a state agency or a resident advocate for assistance in resolving grievances, free from restraint, interference, or reprisal. <br/>
+<br/>
+(f) During a resident's stay in a long-term care facility, the resident retains the prerogative to exercise decisionmaking rights <br/> in all aspects of the resident's health care, including placement and treatment issues such as medication, special diets, or other medical regimens. <br/>
+<br/>
+(g) The resident's authorized representative must be notified in a prompt manner of any significant accident, unexplained absence, or significant change in the resident's health status. <br/>
+<br/>
+(h) A resident has the right to be free from verbal, mental, and physical abuse, neglect, or financial exploitation. <br/> Facility staff shall report to the department and the long-term care ombudsman any suspected incidents of abuse under the Montana Elder and Persons With Developmental Disabilities Abuse Prevention Act, Title 52, chapter 3, part 8. <br/>
+<br/>
+(i) Each resident has the right to privacy in the resident's room or portion of the room. If a resident is seeking privacy in the resident's room,<br/> staff members should make reasonable efforts to make their presence known when entering the room. <br/>
+<br/>
+(j) In case of involuntary transfer or discharge, a resident has the right to reasonable advance notice to ensure an orderly transfer or discharge. <br/> Reasonable advance notice requires at least 21 days' written notification of any interfacility transfer or discharge except in cases of emergency or for medical reasons documented <br/> in the resident's medical record by the attending physician. <br/>
+ <br/>
+(k) If clothing is provided to the resident by the facility, it must be of reasonable fit. <br/>
+<br/>
+(l) A resident has the right to reasonable safeguards for personal possessions brought to the facility. The facility shall provide a means for <br/> safeguarding the resident's small items of value in the resident's room or in another part of the facility where the resident must have reasonable access to the items. <br/>
+<br/>
+(m) The resident has the right to have all losses or thefts of personal possessions promptly investigated by the facility. <br/> The results of the investigation must be reported to the affected resident. <br/>
+<br/>
+(3) The administrator of the facility shall adopt whatever additional measures are necessary to implement the residents' rights listed in subsections <br/> (1) and (2) and meet any other requirements relating to residents' health and safety that are conditions of participation in a state or federal program of medical assistance. <br/>
+<br/>
+<br/>
+History: En. Sec. 4, Ch. 582, L. 1987; amd. Sec. 43, Ch. 16, L. 1991; amd. Sec. 21, Ch. 255, L. 1995; amd. Sec. 209, Ch. 42, L. 1997.
+<ul>
+
+ </table>
+
+ <center><p id='creator'>&copy;&reg;&trade;GMM-WebDesign&trade;&reg;&copy;</p></center>
+
+<script type="text/javascript" charset="utf-8" src="javascripts/jquery-1.8.2.js"></script>
+<script type="text/javascript" charset="utf-8" src="javascripts/application.js"></script>
+ 
+</body>
+</html>
