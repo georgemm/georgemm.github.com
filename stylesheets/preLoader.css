@@ -1,0 +1,11 @@
+#preloader {
+background: url('../images/hc.jpg') no-repeat;
+background: url('../images/logo.jpg') no-repeat;
+background: url('../images/logo2.jpg') no-repeat;
+background: url('../images/rMView.jpg') no-repeat;
+background: url('../images/wt.jpg') no-repeat;
+background: url('../images/blueBack.gif') no-repeat;
+background: url('../images/preBack.gif') no-repeat;
+
+display: none;
+} 
