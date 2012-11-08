@@ -54,7 +54,7 @@ main = File.new("index.html", "w")
 </html>")
     main.close
 
-text = File.new("hitcounter.text", "w")
+text = File.new("hitcounter.txt", "w")
     text.puts("Page Created by: GMM-Web Design.")
     text.close
 
