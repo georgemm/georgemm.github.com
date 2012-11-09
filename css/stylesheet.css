@@ -1,43 +1,45 @@
-<!--- Page Created by: GMM-Web Design. scratch.css --->
-
-html 
+html
 { 
-  background: url('../media/rMView.jpg') no-repeat center center fixed; 
+  background: url('../media/rMView.jpg') no-repeat center center fixed;
+  background-color:black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
-body
-{ 
-  position:absolute;left:4%;
-  width:90%;
-  padding:10px;
-  border: 1px solid black;
-  border-radius:5px;
+a
+{
+  text-decoration:none;
+}
+
+body 
+{
+  position:absolute;left:15%;
+  width:70%;
+  border:solid 1px blue;
+  margin:50px auto;
+  text-align:center;
+
   background: url('../media/blueBack.gif') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   opacity:.8;
+  filter: alpha(opacity = 50);
 }
+
 h2
 {
-color:red;
-text-shadow:1px 1px 1px black;
-}
-h3
-{
-color:black;
-text-shadow:1px 0px 10px white;
-font-size: 28px;
-font-weight: 600;
+  color:red;
+  text-shadow:1px 1px 1px black;
 }
 
 p
 {
+  position:relative;left:5%;
+  width:90%;
   text-indent:50px;
   border: 1px solid blue;
   border-radius:4px;
@@ -50,57 +52,72 @@ p
   -o-background-size: cover;
   background-size: cover;
 }
-img
+
+body #nav li
 {
-  width: 200px;
-  height: 150px;
-  border-radius:3px;
-  overflow: hidden;
+  display:inline;
+  width:90%;
+  border:solid 1px blue;
+  text-align:left;
+  margin:1px;
+  padding:0px 10px;
+
+  background-color:lightblue;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
-/* Slide Show */
-#slideShow
+
+body #nav li:hover
 {
-  width:60%;
-  height: 60%;
-  border-radius:3px;
-  overflow: hidden;
+  border:solid 1px white;
+  background: url('../media/preBack.gif') no-repeat center center fixed;
 }
-/* Image Logo 1 */
+
 #logo
 {
+  background-image:url('../media/logo2.jpg');
+  background-size:cover;
+  background-color:blue;
+  border:solid 1px blue;
   width: 100%;
   height: 100%;
 }
-/* Image Logo 2 */
-#logo2
+#healthcare
 {
-  width: 100%;
-  height: 100%;
+  background-image:url('../media/hc.jpg');
+  background-size:cover;
+  background-color:blue;
+  border:solid 1px blue;
+  width: 35%;
+  height: 35%;
 }
-/* Image Logo 2 */
-
-/* Nav Bar */
-ul#list-nav {
-  list-style:none;
-  margin:20px;
-  padding:0;
-  width:525px
+#worktogether
+{
+  background-image:url('../media/wt.jpg');
+  background-size:cover;
+  background-color:blue;
+  border:solid 1px blue;
+  width: 35%;
+  height: 35%;
 }
-ul#list-nav li {
-  display:inline
+#mountainView
+{
+  background-image:url('../media/rMView.jpg');
+  background-size:cover;
+  background-color:blue;
+  border:solid 1px blue;
+  width: 35%;
+  height: 35%;
 }
-ul#list-nav li a {
-  text-decoration:none;
-  padding:5px 0;
-  width:100px;
-  background:#485e49;
-  color:#eee;
-  float:left;
-  text-align:center;
-  border-left:1px solid #fff;
+#flower
+{
+  background-image:url('../media/lc.jpg');
+  background-size:cover;
+  background-color:blue;
+  border:solid 1px blue;
+  border-radius:12px;
+  width: 35%;
+  height: 35%;
 }
-ul#list-nav li a:hover {
-  background-image:url('../media/preBack.gif');
-  color:#000
-}
-/* End of Nav Bar */
