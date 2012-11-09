@@ -10,6 +10,7 @@ html
 
 a
 {
+  color:blue;
   text-decoration:none;
 }
 
@@ -41,7 +42,7 @@ p
   position:relative;left:5%;
   width:90%;
   text-indent:50px;
-  border: 1px solid blue;
+  border: 1px solid lightblue;
   border-radius:4px;
   padding:3px;
   font-size: 22px;
@@ -57,7 +58,7 @@ body #nav li
 {
   display:inline;
   width:90%;
-  border:solid 1px blue;
+  border:solid 1px lightblue;
   text-align:left;
   margin:1px;
   padding:0px 10px;
