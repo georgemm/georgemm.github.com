@@ -4,7 +4,7 @@ mD=Dir.mkdir("myWebSite")
 Dir.chdir("./myWebSite")
 
 main = File.new("index.html", "w")
-    main.puts("<!--- Page Created by: GMM-Web Design. scratch.rb --->
+    main.puts("
 <!Doctype html>
 <html>
 <head>
@@ -111,7 +111,7 @@ mDIn2=Dir.mkdir("javascripts")
 Dir.chdir("./javascripts")
 
 javascript = File.new("javascript.js", "w")
-    javascript.puts("<!--- Page Created by: GMM-Web Design. scratch.js --->")
+    javascript.puts("")
     javascript.close
 
 readme = File.new("readme.txt", "w")
@@ -125,7 +125,7 @@ mDIn3=Dir.mkdir("css")
 Dir.chdir("./css")
 
 css = File.new("stylesheet.css", "w")
-    css.puts("<!--- Page Created by: GMM-Web Design. scratch.css --->
+    css.puts("
 
 html 
 { 
@@ -254,7 +254,7 @@ mDIn5=Dir.mkdir("includes")
 Dir.chdir("./includes")
 
 shtml = File.new("test.shtml", "w")
-    shtml.puts("<!--- Page Created by: GMM-Web Design. This only works on Server Side --->
+    shtml.puts("
 
 <!--#echo var='DATE_LOCAL' --> <br/><br/>
 
@@ -277,7 +277,7 @@ mDIn6=Dir.mkdir("php")
 Dir.chdir("./php")
 
 php = File.new("testCounter.php", "w")
-    php.puts("<!--- Page Created by: GMM-Web Design. scratch.php This only works on Server Side --->
+    php.puts("
 
 ?php
 $count_my_page = ('hitcounter.txt');
