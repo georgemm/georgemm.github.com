@@ -34,7 +34,31 @@ color:#500000;
 font-size:250%;
 width:75%;
 position:relative;
-left:12%;
+left:10%;
+}
+p:hover
+{
+animation:myfirst 5s;
+-webkit-animation:myfirst 5s; /* Safari and Chrome */
+}
+
+@keyframes myfirst
+{
+0%   {color:red;}
+25%  {color:yellow;}
+50%  {color:blue;}
+75% {color:green;background-color:grey;}
+100% {color:red;background-color:black;}
+}
+
+@-webkit-keyframes myfirst /* Safari and Chrome */
+{
+0%   {color:red;}
+25%  {color:yellow;}
+50%  {color:blue;}
+75% {color:green;}
+75% {color:green;background-color:grey;}
+100% {color:red;background-color:black;}
 }
 </style>
 
